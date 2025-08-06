@@ -28,6 +28,9 @@ npm run dev
 # If you are using Create React App (CRA):
 
 npx create-react-app otp-react-app
+
 cd otp-react-app
+
 npm install
+
 npm start
