@@ -13,12 +13,16 @@ This component is an excellent example of how to manage focus and user input acr
 The project styling is kept minimal and clean with CSS classes for container layout and input field styling. You can easily extend the component’s look and feel to match your application’s theme. For a better understanding of React Hooks, refer to resources like the Daily.dev blog on React Hooks or tutorials explaining React components in depth. This project is open-source and can be freely modified and used in personal or professional projects.
 
 # Commands to Run
+
 ## If you are using Vite:
 
 
 npm create vite@latest react-otp -- --template react
+
 cd otp-react-app
+
 npm install
+
 npm run dev
 
 # If you are using Create React App (CRA):
